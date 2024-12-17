@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2271f02770edf6246b07df7be6ae4660
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244370
+  packageName: BetterPhysics - Selective Kinematics
+  packageVersion: 1.0.4
+  assetPath: Assets/BetterPhysics/Samples/Scenes/Interactive Selective Kinematics
+    Demo.unity
+  uploadId: 713533

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7002a6504f67e4ae9a50c0e365d2c40a
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244370
+  packageName: BetterPhysics - Selective Kinematics
+  packageVersion: 1.0.4
+  assetPath: Assets/BetterPhysics/Runtime/SadnessMonday.BetterPhysics.Core.asmdef
+  uploadId: 713533

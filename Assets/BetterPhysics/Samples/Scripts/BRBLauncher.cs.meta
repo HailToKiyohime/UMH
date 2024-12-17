@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 39206428aa6bc4e5fa785362d77bb65a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244370
+  packageName: BetterPhysics - Selective Kinematics
+  packageVersion: 1.0.4
+  assetPath: Assets/BetterPhysics/Samples/Scripts/BRBLauncher.cs
+  uploadId: 713533

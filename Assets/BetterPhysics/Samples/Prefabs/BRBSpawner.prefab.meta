@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: afa16460f9b3e4b7ab8b8e4c6fcdb83b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244370
+  packageName: BetterPhysics - Selective Kinematics
+  packageVersion: 1.0.4
+  assetPath: Assets/BetterPhysics/Samples/Prefabs/BRBSpawner.prefab
+  uploadId: 713533

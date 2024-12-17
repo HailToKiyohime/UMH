@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 7533a799aac24b6cbba39ddb848053d7
+timeCreated: 1711810766
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244370
+  packageName: BetterPhysics - Selective Kinematics
+  packageVersion: 1.0.4
+  assetPath: Assets/BetterPhysics/Runtime/Scripts/LimitType.cs
+  uploadId: 713533

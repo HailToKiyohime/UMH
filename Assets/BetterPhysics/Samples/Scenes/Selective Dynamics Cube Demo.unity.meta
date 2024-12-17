@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 15026bc86fa004f719f83a12a13f32ec
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244370
+  packageName: BetterPhysics - Selective Kinematics
+  packageVersion: 1.0.4
+  assetPath: Assets/BetterPhysics/Samples/Scenes/Selective Dynamics Cube Demo.unity
+  uploadId: 713533

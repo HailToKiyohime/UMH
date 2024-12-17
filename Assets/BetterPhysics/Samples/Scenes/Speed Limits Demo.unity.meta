@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6f292b2be7c5b4c4585febb318a6731a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244370
+  packageName: BetterPhysics - Selective Kinematics
+  packageVersion: 1.0.4
+  assetPath: Assets/BetterPhysics/Samples/Scenes/Speed Limits Demo.unity
+  uploadId: 713533

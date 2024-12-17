@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ad9a86713117474ea4e2695ad6e33b0e
+timeCreated: 1679663670
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244370
+  packageName: BetterPhysics - Selective Kinematics
+  packageVersion: 1.0.4
+  assetPath: Assets/BetterPhysics/Editor/Scripts/LayerInteractionMatrixGUI.cs
+  uploadId: 713533

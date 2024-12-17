@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 68331ce5b5cdd4c1cbbc892678daed1a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244370
+  packageName: BetterPhysics - Selective Kinematics
+  packageVersion: 1.0.4
+  assetPath: Assets/BetterPhysics/Samples/Prefabs/BetterCube.prefab
+  uploadId: 713533

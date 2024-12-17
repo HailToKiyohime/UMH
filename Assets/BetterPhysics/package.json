@@ -1,0 +1,20 @@
+{
+  "name": "com.sadnessmonday.betterphysics",
+  "version": "1.0.4",
+  "displayName": "BetterPhysics",
+  "description": "Selective Kinematics and Speed Limits for Rigidbodies",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.collections": "2.4.1"
+  },
+  "keywords": [
+    "extensions",
+    "extension",
+    "helper",
+    "utility"
+  ],
+  "author": {
+    "name": "Jeremy Schiff",
+    "url": "sadnessmonday.com"
+  }
+}

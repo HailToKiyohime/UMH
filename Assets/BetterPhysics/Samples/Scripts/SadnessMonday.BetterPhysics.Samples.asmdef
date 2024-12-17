@@ -1,0 +1,23 @@
+{
+    "name": "SadnessMonday.BetterPhysics.Samples",
+    "rootNamespace": "SadnessMonday.BetterPhysics.Samples",
+    "references": [
+        "GUID:7002a6504f67e4ae9a50c0e365d2c40a",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.inputsystem",
+            "expression": "0.0.0",
+            "define": "NEW_INPUT_SYSTEM_INSTALLED"
+        }
+    ],
+    "noEngineReferences": false
+}

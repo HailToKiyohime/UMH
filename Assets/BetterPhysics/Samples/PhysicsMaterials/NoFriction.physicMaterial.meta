@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1c79854a13800c643a7ee62a1d1e3697
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244370
+  packageName: BetterPhysics - Selective Kinematics
+  packageVersion: 1.0.4
+  assetPath: Assets/BetterPhysics/Samples/PhysicsMaterials/NoFriction.physicMaterial
+  uploadId: 713533

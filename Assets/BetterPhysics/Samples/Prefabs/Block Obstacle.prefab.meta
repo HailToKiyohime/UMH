@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 57fb3f4b8104bc04fb7eac5064bdef2a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244370
+  packageName: BetterPhysics - Selective Kinematics
+  packageVersion: 1.0.4
+  assetPath: Assets/BetterPhysics/Samples/Prefabs/Block Obstacle.prefab
+  uploadId: 713533

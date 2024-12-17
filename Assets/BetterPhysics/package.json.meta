@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0661671193fa74924b38d508664237f5
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244370
+  packageName: BetterPhysics - Selective Kinematics
+  packageVersion: 1.0.4
+  assetPath: Assets/BetterPhysics/package.json
+  uploadId: 713533

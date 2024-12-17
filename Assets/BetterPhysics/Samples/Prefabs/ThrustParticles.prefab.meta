@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 32fb777d609cce645b52a0426d3fb4a9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244370
+  packageName: BetterPhysics - Selective Kinematics
+  packageVersion: 1.0.4
+  assetPath: Assets/BetterPhysics/Samples/Prefabs/ThrustParticles.prefab
+  uploadId: 713533

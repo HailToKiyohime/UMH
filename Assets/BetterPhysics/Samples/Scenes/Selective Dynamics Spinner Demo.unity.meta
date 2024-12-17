@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ff954d2fced154a4197392a03bfdd6f3
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244370
+  packageName: BetterPhysics - Selective Kinematics
+  packageVersion: 1.0.4
+  assetPath: Assets/BetterPhysics/Samples/Scenes/Selective Dynamics Spinner Demo.unity
+  uploadId: 713533

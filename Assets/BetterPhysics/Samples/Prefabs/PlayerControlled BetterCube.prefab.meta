@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7e80ebdcbe4d34d0591a9e87adafe06e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244370
+  packageName: BetterPhysics - Selective Kinematics
+  packageVersion: 1.0.4
+  assetPath: Assets/BetterPhysics/Samples/Prefabs/PlayerControlled BetterCube.prefab
+  uploadId: 713533

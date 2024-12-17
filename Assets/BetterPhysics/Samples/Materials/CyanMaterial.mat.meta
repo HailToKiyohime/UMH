@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8b2d1b3ce6f85804d985a20da00a9ecb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244370
+  packageName: BetterPhysics - Selective Kinematics
+  packageVersion: 1.0.4
+  assetPath: Assets/BetterPhysics/Samples/Materials/CyanMaterial.mat
+  uploadId: 713533

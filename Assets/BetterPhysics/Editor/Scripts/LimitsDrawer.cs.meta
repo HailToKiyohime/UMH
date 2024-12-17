@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: ace158eb2d424602bed71c44d7949a66
+timeCreated: 1674875026
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244370
+  packageName: BetterPhysics - Selective Kinematics
+  packageVersion: 1.0.4
+  assetPath: Assets/BetterPhysics/Editor/Scripts/LimitsDrawer.cs
+  uploadId: 713533

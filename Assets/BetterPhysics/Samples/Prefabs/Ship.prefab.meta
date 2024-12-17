@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b8350166156eb49419f5f60506e86bb4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244370
+  packageName: BetterPhysics - Selective Kinematics
+  packageVersion: 1.0.4
+  assetPath: Assets/BetterPhysics/Samples/Prefabs/Ship.prefab
+  uploadId: 713533
